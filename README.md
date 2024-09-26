@@ -35,8 +35,9 @@ Below is the overview of the PowerBI dashboard and the complete interactive dash
 - Contrary to typical seasonal patterns, holiday sales did not have a significant impact in 2016, with October recording the lowest revenue of $17,497 during the two-year period.
 - **Q4 2015** followed the expected seasonal trend, with a marked increase in revenue driven by the holiday period. November 2015 stood out as the highest-performing month that year.
 
-![](https://github.com/ayeshamala/retail_store_analysis/blob/main/2015%20-%20Revenue.PNG) ![](https://github.com/ayeshamala/retail_store_analysis/blob/main/2016%20-%20Revenue.PNG)
-
+<p align="center">
+  <img src="https://github.com/ayeshamala/retail_store_analysis/blob/main/2015-2016%20Revenue.PNG" />
+</p>
 ### Product Analysis
 - **67.47%** of revenue is generated from the high-demand categories including **Furnishings** and **Public Areas** products, resulting in higher total revenue due to larger order quantities or higher unit prices.
 - With **16.4%** of the total revenue, **Bed (King), Bed (Double),** and **Portable Drill** are the top 3 performing products across all categories.
