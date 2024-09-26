@@ -21,14 +21,14 @@ SQL QUeries for Exploratory Data Analysis: [Download Here](https://github.com/ay
 
 THE ABC Company's database structure consists of 3 tables: Order Details, Products, and Property Info with a total row count of 5,000 records.
 
-![](https://github.com/ayeshamala/retailsales/blob/main/Entity%20Relationship%20Diagram.png)
+![](https://github.com/ayeshamala/retail_store_analysis/blob/main/Readme%20Source/Entity%20Relationship%20Diagram.png)
 
 ## Executive Summary
 In 2015, The ABC Company experienced stronger revenue performance, with a decline of 2.03% in total revenue recorded for 2016. However, there was no significant difference in the number of orders received or product sales between the two years. Key performance indicators reveal that although there is a slight decline in revenue, there was actually a 1.3% increase in product sales. This suggests a shift in demand towards lower-priced products, as they were sold in greater quantities compared to higher-priced items.
 
 Below is the overview of the PowerBI dashboard and the complete interactive dashboard can be downloaded [here](https://github.com/ayeshamala/retailsales/blob/main/Retail_Sales_Visualization.pbix).
 
-![](https://github.com/ayeshamala/retailsales/blob/main/Retail_Sales_Dashboard.PNG)
+![](https://github.com/ayeshamala/retail_store_analysis/blob/main/Readme%20Source/Retail_Sales_Dashboard.PNG)
 
 ### Sales Performance
 - Sales for the company reached their highest point in **May 2016**, generating $27,614 in revenue. However, there was no notable revenue growth for the remainder of the year.
@@ -36,7 +36,7 @@ Below is the overview of the PowerBI dashboard and the complete interactive dash
 - **Q4 2015** followed the expected seasonal trend, with a marked increase in revenue driven by the holiday period. November 2015 stood out as the highest-performing month that year.
 
 <p align="center">
-  <img src="https://github.com/ayeshamala/retail_store_analysis/blob/main/2015-2016%20Revenue.PNG" />
+  <img src="https://github.com/ayeshamala/retail_store_analysis/blob/main/Readme%20Source/2015-2016%20Revenue.PNG" />
 </p>
 
 ### Product Analysis
