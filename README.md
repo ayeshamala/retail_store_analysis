@@ -32,17 +32,24 @@ Below is the overview of the PowerBI dashboard and the complete interactive dash
 
 ### Sales Performance
 - Sales for the company reached their highest point in **May 2016**, generating $27,614 in revenue. However, there was no notable revenue growth for the remainder of the year.
-- Contrary to typical seasonal patterns, holiday sales did not have a significant impact in 2016, with October recording the lowest revenue during the two-year period.
+- Contrary to typical seasonal patterns, holiday sales did not have a significant impact in 2016, with October recording the lowest revenue of $17,497 during the two-year period.
 - **Q4 2015** followed the expected seasonal trend, with a marked increase in revenue driven by the holiday period. November 2015 stood out as the highest-performing month that year.
 
 
 ### Product Analysis
-- High-demand categories include **Furnishings** and **Public Areas** products, resulting in higher total revenue due to larger order quantities or higher unit prices.
+- **67.47%** of revenue is generated from the high-demand categories including **Furnishings** and **Public Areas** products, resulting in higher total revenue due to larger order quantities or higher unit prices.
+- With **16.4%** of the total revenue, **Bed (King), Bed (Double),** and **Portable Drill** are the top 3 performing products across all categories.
 - The pricing strategy across categories like Office Supplies and Maintenance also influences overall revenue generation, with fewer units sold but higher price points for products like tools and supplies.
-- **Small Area Rugs, Bed Sheets (King)**, and **Mirrors** are the top 3 performing products across all categories.
 
 ### Regional Insights
+- Store locations in **California, Virginia**, and **Missouri** are the top performers, contributing 26.4% of the total revenue.
+- Geographic variation in product orders shows differing priorities between properties, with some regions focusing more on maintaining public areas, while others emphasize housekeeping or office supplies.
 
-
-
+## Recommendations
+- Since 67.47% of revenue is generated from Furnishings and Public Areas, prioritize marketing efforts in these categories. Consider targeted campaigns to increase brand awareness and promote best-selling products like beds and drills.
+- Despite the weak holiday performance in 2016, consider introducing early promotions or loyalty programs leading into peak seasons (e.g., November for holiday sales) to encourage more purchases.
+- Given the shift towards lower-priced products, consider competitive pricing strategies for essential high-demand items, ensuring they are priced attractively to stimulate sales.
+- Review the product catalog regularly to identify and phase out low-demand items that may be tying up inventory costs.
+- Consider implementing a loyalty program that rewards customers for repeat purchases, which can help increase sales volume, especially in high-demand categories.
+- Establish a routine for regular data analysis to monitor sales performance, customer preferences, and market trends. This can help quickly adapt to changing demands and optimize marketing campaigns.
 
