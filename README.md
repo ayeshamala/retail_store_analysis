@@ -38,6 +38,7 @@ Below is the overview of the PowerBI dashboard and the complete interactive dash
 <p align="center">
   <img src="https://github.com/ayeshamala/retail_store_analysis/blob/main/2015-2016%20Revenue.PNG" />
 </p>
+
 ### Product Analysis
 - **67.47%** of revenue is generated from the high-demand categories including **Furnishings** and **Public Areas** products, resulting in higher total revenue due to larger order quantities or higher unit prices.
 - With **16.4%** of the total revenue, **Bed (King), Bed (Double),** and **Portable Drill** are the top 3 performing products across all categories.
