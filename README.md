@@ -23,3 +23,10 @@ THE ABC Company's database structure consists of 3 tables: Order Details, Produc
 
 ![](https://github.com/ayeshamala/retailsales/blob/main/Entity%20Relationship%20Diagram.png)
 
+## Executive Summary
+In 2015, The ABC Company experienced stronger revenue performance, with a decline of 2.03% in total revenue recorded for 2016. However, there was no significant difference in the number of orders received or product sales between the two years. Key performance indicators show that although there is a slight decline in the revenue generated, there was actually a 1.3% increase in product sales, which indicates that the products with lower price value were sold more compared to the products with higher price value. 
+
+Below is the overview of the PowerBI dashboard and the complete interactive dashboard can be downloaded [here](https://github.com/ayeshamala/retailsales/blob/main/Retail_Sales_Visualization.pbix).
+
+![](https://github.com/ayeshamala/retailsales/blob/main/Retail_Sales_Dashboard.PNG)
+
