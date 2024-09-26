@@ -24,9 +24,25 @@ THE ABC Company's database structure consists of 3 tables: Order Details, Produc
 ![](https://github.com/ayeshamala/retailsales/blob/main/Entity%20Relationship%20Diagram.png)
 
 ## Executive Summary
-In 2015, The ABC Company experienced stronger revenue performance, with a decline of 2.03% in total revenue recorded for 2016. However, there was no significant difference in the number of orders received or product sales between the two years. Key performance indicators show that although there is a slight decline in the revenue generated, there was actually a 1.3% increase in product sales, which indicates that the products with lower price value were sold more compared to the products with higher price value. 
+In 2015, The ABC Company experienced stronger revenue performance, with a decline of 2.03% in total revenue recorded for 2016. However, there was no significant difference in the number of orders received or product sales between the two years. Key performance indicators reveal that although there is a slight decline in revenue, there was actually a 1.3% increase in product sales. This suggests a shift in demand towards lower-priced products, as they were sold in greater quantities compared to higher-priced items.
 
 Below is the overview of the PowerBI dashboard and the complete interactive dashboard can be downloaded [here](https://github.com/ayeshamala/retailsales/blob/main/Retail_Sales_Visualization.pbix).
 
 ![](https://github.com/ayeshamala/retailsales/blob/main/Retail_Sales_Dashboard.PNG)
+
+### Sales Performance
+- Sales for the company reached their highest point in **May 2016**, generating $27,614 in revenue. However, there was no notable revenue growth for the remainder of the year.
+- Contrary to typical seasonal patterns, holiday sales did not have a significant impact in 2016, with October recording the lowest revenue during the two-year period.
+- **Q4 2015** followed the expected seasonal trend, with a marked increase in revenue driven by the holiday period. November 2015 stood out as the highest-performing month that year.
+
+
+### Product Analysis
+- High-demand categories include **Furnishings** and **Public Areas** products, resulting in higher total revenue due to larger order quantities or higher unit prices.
+- The pricing strategy across categories like Office Supplies and Maintenance also influences overall revenue generation, with fewer units sold but higher price points for products like tools and supplies.
+- **Small Area Rugs, Bed Sheets (King)**, and **Mirrors** are the top 3 performing products across all categories.
+
+### Regional Insights
+
+
+
 
