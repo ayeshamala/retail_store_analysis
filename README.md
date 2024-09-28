@@ -19,14 +19,14 @@ SQL QUeries for Exploratory Data Analysis: [Download Here](https://github.com/ay
 
 ## Data Structure & Relationships
 
-THE ABC Company's database structure consists of 3 tables: Order Details, Products, and Property Info with a total row count of 5,000 records.
+THE ABC Company's database structure consists of 3 tables: Order Details, Products, and Property Info, with a total row count of 5,000 records.
 
-![](https://github.com/ayeshamala/retail_store_analysis/blob/main/Readme%20Source/Entity%20Relationship%20Diagram.png)
+![](https://github.com/ayeshamala/retail_store_analysis/blob/main/Readme%20Source/Retail_Sales_Data_Model.PNG)
 
 ## Executive Summary
 In 2015, The ABC Company experienced stronger revenue performance, with a decline of 2.03% in total revenue recorded for 2016. However, there was no significant difference in the number of orders received or product sales between the two years. Key performance indicators reveal that although there is a slight decline in revenue, there was actually a 1.3% increase in product sales. This suggests a shift in demand towards lower-priced products, as they were sold in greater quantities compared to higher-priced items.
 
-Below is the overview of the PowerBI dashboard and the complete interactive dashboard can be downloaded [here](https://github.com/ayeshamala/retailsales/blob/main/Retail_Sales_Visualization.pbix).
+Below is the overview of the PowerBI dashboard, and the complete interactive dashboard can be downloaded [here](https://github.com/ayeshamala/retailsales/blob/main/Retail_Sales_Visualization.pbix).
 
 ![](https://github.com/ayeshamala/retail_store_analysis/blob/main/Readme%20Source/Retail_Sales_Dashboard.PNG)
 
@@ -40,13 +40,13 @@ Below is the overview of the PowerBI dashboard and the complete interactive dash
 </p>
 
 ### Product Analysis
-- **67.47%** of revenue is generated from the high-demand categories including **Furnishings** and **Public Areas** products, resulting in higher total revenue due to larger order quantities or higher unit prices.
+- **67.47%** of revenue is generated from the high-demand categories, including **Furnishings** and **Public Areas** products, resulting in higher total revenue due to larger order quantities or higher unit prices.
 - With **16.4%** of the total revenue, **Bed (King), Bed (Double),** and **Portable Drill** are the top 3 performing products across all categories.
 - The pricing strategy across categories like Office Supplies and Maintenance also influences overall revenue generation, with fewer units sold but higher price points for products like tools and supplies.
 
 ### Regional Insights
 - Store locations in **California, Virginia**, and **Missouri** are the top performers, contributing 26.4% of the total revenue.
-- Geographic variation in product orders shows differing priorities between properties, with some regions focusing more on maintaining public areas, while others emphasize housekeeping or office supplies.
+- Geographic variation in product orders shows differing priorities between properties, with some regions focusing more on maintaining public areas while others emphasize housekeeping or office supplies.
 
 ## Recommendations
 - Since 67.47% of revenue is generated from Furnishings and Public Areas, prioritize marketing efforts in these categories. Consider targeted campaigns to increase brand awareness and promote best-selling products like beds and drills.
